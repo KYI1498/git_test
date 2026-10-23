@@ -18,5 +18,3 @@ Git의 add, commit, push 명령어 익히기
 
 \- 브랜치와 Pull Request(PR)
 
-* 왜 갑자기 점으로 저장되지 이거 뭐지
-
