@@ -18,3 +18,6 @@ Git의 add, commit, push 명령어 익히기
 
 - 브랜치와 Pull Request(PR)
 
+## fetch와 pull 비교 실습
+
+이 문장은 Github 웹에서 추가 및 변경한 내용입니다.
